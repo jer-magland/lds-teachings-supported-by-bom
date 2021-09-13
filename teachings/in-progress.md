@@ -4,8 +4,6 @@ See: https://colab.research.google.com/drive/1aQ52qfG9i1vl_ZFwXNT2LsV1Jcykk8bg?u
 
 # Atonement of Jesus Christ
 
-# Baptism
-
 # Charity
 
 # Chastity
@@ -30,13 +28,15 @@ See: https://colab.research.google.com/drive/1aQ52qfG9i1vl_ZFwXNT2LsV1Jcykk8bg?u
 
 # Foreordination
 
-# Forgiveness
+# Forgiveness (from God)
+
+# Forgiveness (one another)
+
+For, if ye forgive men their trespasses your heavenly Father will also forgive you; But if ye forgive not men their trespasses neither will your Father forgive your trespasses. (3 Nephi 13:14-15)
 
 # God-the-father
 
 # Gospel
-
-# Grace
 
 # Grief
 
@@ -89,6 +89,8 @@ See: https://colab.research.google.com/drive/1aQ52qfG9i1vl_ZFwXNT2LsV1Jcykk8bg?u
 # revelation
 
 # sabbath-day
+
+Not sure this is explicitly mentioned
 
 # sacrament
 
